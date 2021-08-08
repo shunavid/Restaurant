@@ -59,10 +59,12 @@
   
   .card-number {
     margin-top: 15px;
+    margin-left: 50%;
+    color: black;
   }
   
   .card-circle {
-    border: 1px solid #aaa;
+    border: 2px solid black;
     border-radius: 50%;
     display: inline-block;
     line-height: 22px;
@@ -74,7 +76,7 @@
   
   .card-author {
     display: block;
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 0.5px;
     margin: 15px 0 0;
     text-transform: uppercase;
